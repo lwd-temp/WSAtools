@@ -9,5 +9,5 @@ pure_python_adb==0.3.0.dev0
 py2exe==0.11.1.0
 pyaxmlparser==0.3.26
 pywin32==303
-requests==2.25.1
+requests==2.32.0
 six==1.16.0
